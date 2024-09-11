@@ -1,4 +1,4 @@
 #Hello World!
- Primeiro repositório versionado. 
+ Primeiro repositorio versionado 
 
-repositório criado durante uma aula!
+repositorio criado durante uma aula
